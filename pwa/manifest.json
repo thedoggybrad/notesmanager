@@ -12,7 +12,7 @@
   "start_url": "https://thedoggybrad.github.io/notesmanager/index.html",
   "display": "standalone",
   "background_color": "#ECC402",
-  "orientation": "portrait",
+  "orientation": "portrait"
     }
   ]
 }
