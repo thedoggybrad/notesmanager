@@ -1,3 +1,5 @@
+<img src="favicon.png" alt="LOGO" width="64"  height="64">
+
 # Notes Manager
 A simple sticky notes clone, based on HTML, CSS and JavaScript.
 
