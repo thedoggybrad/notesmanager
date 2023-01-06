@@ -1,0 +1,18 @@
+{
+  "name": "Notes Manager",
+  "short_name": "NotesManager",
+  "description": "The Classic 2048 is now on the web but with a few improvements.",
+  "icons": [
+    {
+      "src": "https://thedoggybrad.github.io/notesmanager/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://thedoggybrad.github.io/notesmanager/index.html",
+  "display": "standalone",
+  "background_color": "#ECC402",
+  "orientation": "portrait",
+     }
+  ]
+}
