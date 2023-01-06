@@ -1,7 +1,7 @@
 {
   "name": "Notes Manager",
   "short_name": "NotesManager",
-  "description": "The Classic 2048 is now on the web but with a few improvements.",
+  "description": "A simple sticky notes clone, based on HTML, CSS and JavaScript.",
   "icons": [
     {
       "src": "https://thedoggybrad.github.io/notesmanager/favicon.png",
@@ -13,6 +13,6 @@
   "display": "standalone",
   "background_color": "#ECC402",
   "orientation": "portrait",
-     }
+    }
   ]
 }
