@@ -5,7 +5,7 @@ const CACHE_NAME = 'notesmanager';
 const resourceList = [
   '/',
   'https://thedoggybrad.github.io/notesmanager/index.html',
-  'https://thedoggybrad.github.io/notesmanager/favicon.ico',
+  'https://cdn.jsdelivr.net/gh/thedoggybrad/notesmanager@main/favicon.png',
   'https://cdn.jsdelivr.net/gh/thedoggybrad/notesmanager@main/style.css',
   'https://cdn.jsdelivr.net/gh/thedoggybrad/notesmanager@main/script.js',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css',
