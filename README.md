@@ -1,3 +1,6 @@
+## Important !!!
+This project is now under maintenance mode. It means that this project will be updated but it will not be ground breaking.
+
 <img src="favicon.png" alt="LOGO" width="64"  height="64">
 
 # Notes Manager
